@@ -1,0 +1,15 @@
+name: colour
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - colour-science
+  - numpy
+  - pandas
+  - python=3.10
+  - ipykernel
+prefix: /home/flyingbucket/anaconda3/envs/colour
