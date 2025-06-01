@@ -12,7 +12,7 @@
 
 - 利用RGB_to_XYZ, XYZ_to_Lab, 将两空间的rgb向量逐步转换成cielab标准表示的色彩向量,然后计算$\Delta E$,
 
-- 优化M使得各个采样点delta_E均值最小化
+- 优化M使得各个采样点$Delta E$均值最小化
 
 ## 第二问
 
